@@ -1,0 +1,117 @@
+/* Set default font family and size */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Style headings */
+h1,
+h2 {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Style paragraphs */
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Style unordered list */
+ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+/* Style list item */
+li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* Style link */
+a {
+    color: #007bff;
+}
+
+/* Style contact information */
+ul li:last-child {
+    margin-bottom: 20px;
+}
+
+/* Style page title */
+title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+/* Style page header */
+h1:first-of-type {
+    font-size: 28px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+/* Style last updated paragraph */
+p:nth-of-type(2) {
+    font-style: italic;
+}
+
+/* Style definitions section */
+h2:first-of-type {
+    margin-top: 30px;
+}
+
+/* Style acknowledgment and links to other websites sections */
+h1:nth-of-type(2),
+h1:nth-of-type(4) {
+    margin-top: 30px;
+}
+
+/* Style termination and limitation of liability sections */
+h1:nth-of-type(5),
+h1:nth-of-type(6) {
+    margin-top: 30px;
+}
+
+/* Style governing law and disputes resolution sections */
+h1:nth-of-type(7),
+h1:nth-of-type(8) {
+    margin-top: 30px;
+}
+
+/* Style United States legal compliance section */
+h1:nth-of-type(9) {
+    margin-top: 30px;
+}
+
+/* Style severability and waiver sections */
+h1:nth-of-type(10),
+h2:nth-of-type(1),
+h2:nth-of-type(2) {
+    margin-top: 30px;
+}
+
+/* Style translation interpretation and changes to these terms and conditions sections */
+h1:nth-of-type(11),
+h1:nth-of-type(12) {
+    margin-top: 30px;
+}
+
+/* Style contact us section */
+h1:last-of-type {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+/* Style meta viewport tag */
+meta[name="viewport"] {
+    width: device-width;
+}
